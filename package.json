@@ -1,0 +1,11 @@
+{
+  "name": "benchain",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
